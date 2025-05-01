@@ -1,0 +1,6 @@
+a="lenovo"
+b=a[-2::-2]
+print(a)
+c=b[-1::-1]
+print(c)
+

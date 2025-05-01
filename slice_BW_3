@@ -1,0 +1,3 @@
+a="hardik pandya"
+b=a[-8::-1]
+print(b)
