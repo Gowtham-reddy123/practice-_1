@@ -1,0 +1,7 @@
+q, r = divmod(126,9)
+print("Quotient: ", q)
+print("Remainder: ", r)
+ 
+q, r = divmod(4444,28)
+print("Quotient: ", q)
+print("Remainder: ", r)
