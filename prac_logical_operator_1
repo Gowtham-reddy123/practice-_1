@@ -1,0 +1,49 @@
+
+a=13
+b=77
+c=93
+d=63
+e=a>=b
+print(e)
+f=c>=d
+print(f)
+g=a>=b and c>=d
+print(g)
+
+
+
+a=13
+b=77
+c=93
+d=63
+e=a<=b
+print(e)
+f=c<=d
+print(f)
+g=a<=b and c<=d
+print(g)
+
+
+a=13
+b=77
+c=93
+d=63
+e=a<=b
+print(e)
+f=c>=d
+print(f)
+g=a<=b and c>=d
+print(g)
+
+
+a=13
+b=77
+c=93
+d=63
+e=a>=b
+print(e)
+f=c<=d
+print(f)
+g=a>=b and c<=d
+print(g)
+
